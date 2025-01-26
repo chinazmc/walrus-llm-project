@@ -1,0 +1,17 @@
+env: "prod"
+log:
+  path: logs/
+  name: app
+  level: info
+  max_age: 5                  # 保留旧文件天数
+  max_size: 500               # mb
+  max_backups: 3              # 保留每天旧文件个数
+  compress: true              # 是否归档旧文件
+  local_time: true            # 是否使用本地时间
+  log_in_console: false        # 是否打印控制台日志
+
+
+server:
+  # debug
+  run_mode: release
+  http_port: 8098
