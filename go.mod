@@ -1,8 +1,9 @@
 module walrus_llm_project
 
-go 1.23.2
+go 1.23
 
 require (
+	github.com/block-vision/sui-go-sdk v1.0.6
 	github.com/duke-git/lancet/v2 v2.3.4
 	github.com/gin-contrib/cors v1.7.3
 	github.com/gin-contrib/zap v1.1.4

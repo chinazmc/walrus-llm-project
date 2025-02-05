@@ -1,3 +1,5 @@
+github.com/block-vision/sui-go-sdk v1.0.6 h1:FysCc4TJC8v4BEBbCjJPDR4iR5eKqJT1dxGwsT67etg=
+github.com/block-vision/sui-go-sdk v1.0.6/go.mod h1:FyK1vGE8lWm9QA1fdQpf1agfXQSMbPT8AV1BICgx6d8=
 github.com/bytedance/sonic v1.12.6 h1:/isNmCUF2x3Sh8RAp/4mh4ZGkcFAX/hLrzrK3AvpRzk=
 github.com/bytedance/sonic v1.12.6/go.mod h1:B8Gt/XvtZ3Fqj+iSKMypzymZxw/FVwgIGKzMzT9r/rk=
 github.com/bytedance/sonic/loader v0.1.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
